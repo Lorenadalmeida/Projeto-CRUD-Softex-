@@ -10,7 +10,7 @@ def adicionar_eventos():
         "tamanho": tamanho,
         "distancia": distancia 
         }  
-   eventos.append(planeta)
+    eventos.append(planeta)
     print(f"\n evento '{ }) registrado com sucesso!")
     print(adicionar_eventos)
 
